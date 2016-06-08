@@ -1,4 +1,4 @@
 <?php
 echo "jeba";
-print "h";
+print "h" and echo "penis";
 ?>
