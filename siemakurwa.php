@@ -1,2 +1,4 @@
 <?php
-echo "jebanie";
+echo "jeba";
+print "h";
+?>
